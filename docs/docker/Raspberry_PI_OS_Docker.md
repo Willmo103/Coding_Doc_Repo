@@ -1,8 +1,5 @@
 ---
-prompt: "Create a Docker Image that maps Rasbian.os onto a volume and opens a shell \
-| Creating a Docker image that maps a Raspberry Pi OS (formerly known as Raspbian) onto a volume \
-| and opens a shell can be accomplished using a multi-stage Docker approach or directly \
-| configuring a single Docker container." 
+prompt: "Create a Docker Image that maps Rasbian.os onto a volume and opens a shell Creating a Docker image that maps a Raspberry Pi OS (formerly known as Raspbian) onto a volume and opens a shell can be accomplished using a multi-stage Docker approach or directly configuring a single Docker container." 
 
 model: "exaone3.5"
 ---
