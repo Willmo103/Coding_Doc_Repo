@@ -1,6 +1,3 @@
-# PowerShell_Snipps
+# Coding_Doc_Repo
 
-Time String:
-```ps
-Get-Date -UFormat "%Y-%M-%d-%H%M%S"
-```
+This is a place to store Markdown notes that I've created, compiled, generated or copied for a quick-look reference for publicly available data.
